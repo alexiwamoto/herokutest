@@ -1,0 +1,7 @@
+org/edmbrasil/www/domain/Worker.class
+org/edmbrasil/www/repository/WorkerRepository.class
+org/edmbrasil/www/service/WorkerService.class
+org/edmbrasil/www/Greeting.class
+org/edmbrasil/www/spring/ApplicationConfiguration.class
+org/edmbrasil/www/Application.class
+org/edmbrasil/www/GreetingController.class
